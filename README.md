@@ -129,7 +129,7 @@ Packages are available for these distributions:
 
 ## Applications
 
-The following applications complement and interact with this driver:
+The following applications complement and interact with this driver, their functions overlap each other:
 
 * [Polychromatic](https://github.com/polychromatic/polychromatic) - a graphical management tool and tray applet to managing Razer peripherals.
 * [RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
